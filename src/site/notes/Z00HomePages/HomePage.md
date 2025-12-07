@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/z00-home-pages/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/z00-home-pages/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
-
-
 
 # 1 Apps
 1. [Everything](obsidian://adv-uri?vault=Obsidian_note&filepath=Everything.md)
